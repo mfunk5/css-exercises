@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+p {background-color: pink;}
+
+#dos {color: blue; 
+     font-size: 36px; 
+     font-weight: 400;}
+
+.cooler {font-size: 22px; 
+        font-weight: 500;}
+
+#quatro {background-color: lightgreen;
+        font-size: 18px;
+        font-weight: bolder;}
